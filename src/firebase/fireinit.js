@@ -4,13 +4,13 @@ import 'firebase/firestore'
 import 'firebase/database'
 
 let config = {
-  apiKey: 'AIzaSyBviu2I1qM_Ld67v5PGz4-pW8rclxPZtB8',
-  authDomain: 'meetup-3ae34.firebaseapp.com',
-  databaseURL: 'https://meetup-3ae34.firebaseio.com',
-  projectId: 'meetup-3ae34',
-  storageBucket: 'meetup-3ae34.appspot.com',
-  messagingSenderId: '774475716159',
-  appId: '1:774475716159:web:15763679e3ea0335'
+  apiKey: '',
+  authDomain: '',
+  databaseURL: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: ''
 };
 
 
